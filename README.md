@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tilakmallikarjun
 - 👀 I’m interested in Data science and analytics
 - 🌱 I’m currently learning Market Mix Modeling 
-- 💞️ I’m looking to collaborate on data science eprojects in R/Python
+- 💞️ I’m looking to collaborate on data science projects in R/Python
 - 📫 How to reach me tilakmallikarjun@gmail.com
 
 <!---
